@@ -93,7 +93,7 @@
       "AuriganDirectorate": 100,
       "AuriganPirates": 100,
       "WordOfBlake": 200,
-       "Solaris7": 200
+       "Solaris7": 0
     },
     "BonusDefensiveResources": {
       "Steiner": -200,
@@ -354,7 +354,6 @@
       "AuriganPirates"
 
     ],
-    "ImmuneToWar": ["Solaris7"],
     "FactionShopItems": {
       "Steiner": "ItemCollection_Internals_IS_Rare",
       "Marik": "ItemCollection_Internals_IS_Rare",
@@ -625,7 +624,7 @@
       "AuriganDirectorate": 100,
       "AuriganPirates": 100,
       "WordOfBlake": 200,
-       "Solaris7": 200
+       "Solaris7": 0
     },
     "BonusDefensiveResources_ISM": {
       "Steiner": -200,
