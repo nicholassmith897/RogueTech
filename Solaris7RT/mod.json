@@ -1,6 +1,6 @@
 {
     "Name": "Solaris7",
-    "Enabled": true,
+    "Enabled": false,
 
     "Version": "1.0.0",
     "Description": "Solaris 7",

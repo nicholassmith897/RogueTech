@@ -35,7 +35,7 @@
       "planet_other_hub",
       "planet_other_blackmarket",
       "planet_other_gamesworld",
-      "planet_faction_solaris7"
+      "planet_faction_steiner"
     ],
     "tagSetSourceFile": ""
   },
@@ -60,7 +60,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": 5,
-  "ownerID": "Solaris7",
+  "ownerID": "Steiner",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
