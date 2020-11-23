@@ -25,7 +25,7 @@
       "planet_other_comstar",
       "planet_other_gamesworld",
       "planet_other_hiringhall",
-      "planet_faction_solaris7"
+      "planet_faction_marik"
     ],
     "tagSetSourceFile": ""
   },
@@ -43,7 +43,7 @@
   },
   "FuelingStation": true,
   "JumpDistance": 8,
-  "ownerID": "Solaris7",
+  "ownerID": "Marik",
   "ShopRefreshRate": 0,
   "ShopMaxInventory": 0,
   "ShopMaxSpecials": 9,
